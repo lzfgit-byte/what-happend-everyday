@@ -1,15 +1,14 @@
 {
-  "name": "test-table",
+  "name": "@ilzf/what-happend-everyday",
   "version": "0.0.1",
-  "packageManager": "pnpm@8.1.1",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build"
   },
   "dependencies": {
-    "element-plus": "^2.3.3",
+    "element-plus": "^2.3.8",
     "lodash": "^4.17.21",
-    "vue": "^3.2.45"
+    "vue": "^3.3.4"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.36.0",
